@@ -1,0 +1,4 @@
+Given this W-2 JSON and the employee's address,
+generate short human-readable insights in bullet form.
+Include notes on tax reasonableness, multi-state income, and address consistency.
+Return an array of short strings.
